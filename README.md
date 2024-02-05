@@ -1,3 +1,11 @@
 # Module18Challenge
 
-Links to the Dashboards and stories
+## Links to the Dashboards and stories
+
+https://public.tableau.com/app/profile/matias.lopez8312/viz/Module18ChallengeTop10/Top10HighestTripDurationsJan2020
+
+https://public.tableau.com/app/profile/matias.lopez8312/viz/Module18ChallengeStory1/Story1
+
+https://public.tableau.com/app/profile/matias.lopez8312/viz/Module18ChallengeStory2/Story2
+
+https://public.tableau.com/app/profile/matias.lopez8312/viz/Module18Challenge_17070935752420/Dashboard1
